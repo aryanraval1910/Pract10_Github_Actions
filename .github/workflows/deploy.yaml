@@ -23,3 +23,5 @@ jobs:
             cd /home/ec2-user/Pract10_Github_Actions
             git pull
             sudo docker compose up -d --build
+
+            
